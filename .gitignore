@@ -1,0 +1,10 @@
+# Môi trường ảo
+.Tho'venv
+
+# Môi trường ảo
+
+# Tập tin tạm
+__pycache__
+*.pyc
+
+# Tập tin tạm
