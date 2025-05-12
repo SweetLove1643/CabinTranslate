@@ -1,5 +1,5 @@
 # Môi trường ảo
-.Tho'venv
+.venv
 
 # Môi trường ảo
 
@@ -8,3 +8,4 @@ __pycache__
 *.pyc
 
 # Tập tin tạm
+*.mp3
