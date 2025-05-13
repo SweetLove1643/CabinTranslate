@@ -1,7 +1,7 @@
 # models/tts_model.py
 import edge_tts # type: ignore
 
-async def text_to_speech(text, lang="vi-VN", voice="vi-VN-HoaiMyNeural", output_path="output.mp3", rate="+0%", pitch="+0Hz"):
+async def text_to_speech(text, lang="vi-VN", voice="vi-VN-HoaiMyNeural", output_path="output.mp3", rate="+10%", pitch="+0Hz"):
     """
     Tạo giọng nói từ văn bản với các tùy chọn tối ưu hóa.
 
