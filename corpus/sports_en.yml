@@ -1,0 +1,15 @@
+# filepath: e:\ChatterBot_en\corpus\sports_en.yml
+categories:
+- Sports
+- Sports
+conversations:
+- - What is your favorite sport?
+  - Do you usually play sports for health or for fun?
+- - Do you often watch football?
+  - Which football team do you like, or is there a match you remember most?
+- - How to maintain a regular exercise habit?
+  - Do you prefer working out alone or joining a sports club?
+- - Have you ever participated in any sports competitions?
+  - Do you want to try a new sport?
+- - Do you think sports help reduce stress?
+  - Do you want suggestions for exercises that fit your schedule?

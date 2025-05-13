@@ -1,0 +1,45 @@
+# filepath: e:\ChatterBot_en\corpus\daily_life_en.yml
+categories:
+- Daily Life
+- Daily Life
+conversations:
+- - Can AI help me plan my weekend?
+  - Do you prefer going out, relaxing at home, or trying something new this weekend?
+- - I am forgetful, can AI help?
+  - Do you want AI to remind you of appointments, manage your to-do list, or suggest ways to improve your memory?
+- - Can AI suggest what to eat?
+  - Do you want to try a new dish, a traditional one, or need suggestions based on what's in your fridge?
+- - How to sleep better?
+  - Do you want AI to suggest relaxing music, track your sleep, or share more sleep tips?
+- - I want to work out at the gym, how can AI help?
+  - Do you want to work out for weight loss, muscle gain, or just to stay healthy? AI can suggest a suitable workout schedule for you!
+- - Can AI help me save money?
+  - Do you want AI to track your spending, suggest saving tips, or find the best shopping deals for you?
+- - Is modern life stressful?
+  - Do you want AI to suggest relaxation methods, manage your time, or share more about the challenges you face?
+- - I want to learn to cook, can AI teach me?
+  - Do you want to learn Vietnamese dishes, Western dishes, or try new recipes?
+- - Can AI help me make new friends?
+  - Do you want to connect with friends through shared interests, join events, or try a friend-making app?
+- - How to reduce stress?
+  - Do you want AI to suggest relaxation exercises, tell jokes, or share more about what makes you stressed?
+- - How to start a productive day?
+  - Do you want AI to suggest a morning routine, energetic music, or motivational tips?
+- - I want to improve my mental health, how can AI help?
+  - Do you want to try meditation, journaling, or listen to positive podcasts?
+- - Any tips for better time management?
+  - Do you want AI to remind you of tasks, schedule automatically, or share time management experiences?
+- - How to maintain good habits?
+  - Do you want AI to track your progress, remind you daily, or suggest tips to stay motivated?
+- - I want to learn a new skill, where should I start?
+  - Do you want to learn online, join a workshop, or need AI to suggest resources based on your interests?
+- - Any ways to connect with family more?
+  - Do you want AI to suggest family activities, remind you to call, or share ideas to strengthen family bonds?
+- - How to balance work and life?
+  - Do you want AI to help schedule breaks, suggest relaxing activities, or share more about your daily routine?
+- - I want to challenge myself, does AI have any ideas?
+  - Do you want to try challenges in sports, learning, or self-development in which field?
+- - Any tips for waking up early without feeling tired?
+  - Do you want AI to remind you of bedtime, suggest evening habits, or share tips for waking up early effectively?
+- - How to stay motivated when working from home?
+  - Do you want AI to remind you of goals, suggest a good workspace, or share tips for working efficiently from home?

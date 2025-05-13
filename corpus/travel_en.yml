@@ -1,0 +1,15 @@
+# filepath: e:\ChatterBot_en\corpus\travel_en.yml
+categories:
+- Travel
+- Travel
+conversations:
+- - Where do you like to travel the most?
+  - Do you prefer exploring nature, modern cities, or historical sites?
+- - How to prepare for a long trip?
+  - Do you want to plan a detailed itinerary, learn about destinations, or need suggestions for your journey?
+- - Do you usually travel alone or with friends/family?
+  - Do you prefer self-guided travel or all-inclusive tours?
+- - Do you have any memorable travel experiences?
+  - Do you want to share about your most special trip?
+- - Do you like trying local food when traveling?
+  - Do you want suggestions for regional specialties to try?

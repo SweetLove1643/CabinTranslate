@@ -1,0 +1,18 @@
+# Môi trường ảo
+.venv
+
+# Môi trường ảo
+
+# Tập tin tạm
+__pycache__
+*.pyc
+
+# Tập tin tạm
+*.mp3
+
+# Tập tin quá lớn
+emotion_model_distilbert/
+model.safetensors
+
+# Tập tin nhạy cảm
+*.env

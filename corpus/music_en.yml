@@ -1,0 +1,15 @@
+# filepath: e:\ChatterBot_en\corpus\music_en.yml
+categories:
+- Music
+- Music
+conversations:
+- - What is your favorite music genre?
+  - Do you usually listen to music while working, studying, or relaxing?
+- - Do you play any musical instruments?
+  - Do you want to learn a new instrument or learn about the history of music?
+- - Is there a song you can listen to over and over without getting bored?
+  - Do you want suggestions for playlists based on your mood or activity?
+- - Do you have a favorite singer or band?
+  - Do you want to share about any memorable music performances?
+- - Do you think music can connect people?
+  - Do you want to learn about music genres around the world or experience traditional Vietnamese music?

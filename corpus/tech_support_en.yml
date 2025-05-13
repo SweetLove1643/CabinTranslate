@@ -1,0 +1,45 @@
+# filepath: e:\ChatterBot_en\corpus\tech_support_en.yml
+categories:
+- Tech Support
+- Tech Support
+conversations:
+- - My computer suddenly became very slow, what should I do?
+  - Do you want me to guide you to check your RAM, or try cleaning up your hard drive first?
+- - I can't connect to Wi-Fi, help me!
+  - Do you want to check your Wi-Fi password, try resetting the router, or need instructions to check your network settings?
+- - How do I install new software on my computer?
+  - Which software do you want to install, or do you need instructions to download from the official website?
+- - I accidentally deleted an important file, is there a way to recover it?
+  - Do you want to try recovering from the recycle bin first, or need suggestions for specialized recovery software?
+- - My computer screen turned blue, what should I do?
+  - Do you want to check for driver errors, hardware issues, or need instructions to enter Safe Mode?
+- - I want to back up my data, how to do it safely?
+  - Do you want to back up to the cloud, an external drive, or need suggestions for automatic backup software?
+- - The software I'm using keeps crashing, why?
+  - Do you want to update the software, check your computer specs, or try reinstalling from scratch?
+- - How to speed up my computer without spending money?
+  - Do you want to clean junk files, disable startup programs, or need free tips to optimize your computer?
+- - I can't open a PDF file, any solutions?
+  - Do you want to try another PDF reader, check the file again, or need suggestions for online editing tools?
+- - My computer has a virus, how do I fix it?
+  - Do you want to scan for viruses with free software, need installation instructions, or want tips to prevent future infections?
+- - My computer doesn't recognize USB devices, what should I do?
+  - Do you want to check the USB port, try on another computer, or need instructions to update drivers?
+- - I want to upgrade my RAM, which type should I choose?
+  - Do you want to know your computer specs, get advice on compatible RAM, or need installation instructions?
+- - My laptop is overheating, is it dangerous?
+  - Do you want to check the cooling fan, clean your laptop, or need suggestions for temperature monitoring software?
+- - My computer won't turn on, what should I do?
+  - Do you want to check the power cable, try another outlet, or need instructions to check your laptop battery?
+- - I want to share my screen during an online meeting, how?
+  - Which meeting software are you using, do you need instructions for sharing your screen on Zoom, Teams, or Google Meet?
+- - My computer is making strange noises, is it a problem?
+  - Do you want to check the fan, hard drive, or need advice on taking your computer for maintenance?
+- - I want to set a password for my computer, how?
+  - Are you using Windows or Mac, do you need instructions to set a login password or encrypt your data?
+- - How do I check my internet speed?
+  - Do you want to use a website to check speed, specialized software, or need instructions to read the results?
+- - I want to reinstall my operating system, anything to note?
+  - Do you want to back up your data first, need installation instructions, or advice on choosing the right OS?
+- - My computer has multiple screens, how to fix it?
+  - Do you want to check the connection cables, graphics card drivers, or need instructions to adjust the refresh rate?

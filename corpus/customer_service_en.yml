@@ -1,0 +1,45 @@
+# filepath: e:\ChatterBot_en\corpus\customer_service_en.yml
+categories:
+- Customer Service
+- Customer Service
+conversations:
+- - I placed an order but haven't received it yet?
+  - When would be the most convenient time for you to receive your order so I can help check and reschedule for you?
+- - I want to exchange a product, how do I do that?
+  - Do you want to exchange for another product, or need advice on other options?
+- - The product I received is defective, help me!
+  - Do you want to exchange for a new product, get a refund, or need advice on other solutions?
+- - I have a discount code but can't use it, why?
+  - Do you want me to check that discount code for you, or do you want more information about other promotions?
+- - How do I check my order status?
+  - Would you prefer to receive order status updates via email, text, or phone call?
+- - I want to cancel my order, is that possible?
+  - Do you want to cancel the entire order or just some items, or need advice on other options?
+- - Is there a shipping fee?
+  - Do you want to know about free shipping programs or special offers for your area?
+- - I want to add products to my order, how?
+  - Which product do you want to add, or do you need advice on cost-saving combos?
+- - How long until I get my refund?
+  - Would you prefer to receive your refund via bank transfer or e-wallet, whichever is more convenient for you?
+- - I'm not satisfied with the service, where can I complain?
+  - Would you like to give feedback via hotline, email, or live chat so I can support you as quickly as possible?
+- - I want to know more about the warranty policy, who should I ask?
+  - Would you like to receive warranty information via email or have a staff member call you directly?
+- - Are there any loyalty programs for regular customers?
+  - Would you like to receive loyalty offers via which channel so you don't miss the latest promotions?
+- - What if my order is delayed?
+  - Would you like support via hotline or live chat if you have delivery issues?
+- - I want to change my delivery address, how?
+  - Would you like to update your address via website, app, or message me directly for faster support?
+- - Can I check my order before receiving it?
+  - Would you like the delivery staff to help you check the product on the spot or record a video of the unboxing for peace of mind?
+- - If I need a red invoice, what should I do?
+  - Would you prefer to receive an e-invoice via email or a paper invoice with your product?
+- - Can I place an order by phone?
+  - Would you like a call back for order consultation or prefer to order yourself via website/app for faster service?
+- - If the product is out of stock, can I pre-order?
+  - Would you like to be notified when new stock arrives via which channel so you don't miss your favorite product?
+- - I want to give feedback about a product, where do I send it?
+  - Would you like to give feedback via online form, email, or chat directly with customer service staff?
+- - Can I pay on delivery?
+  - Would you like to pay by cash, bank transfer, or QR code when receiving your order, whichever is more convenient for you?

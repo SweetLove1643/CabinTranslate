@@ -1,0 +1,45 @@
+# filepath: e:\ChatterBot_en\corpus\technology_en.yml
+categories:
+- Technology
+- Technology
+conversations:
+- - How is AI technology developing?
+  - Which AI application are you most interested in right now, or do you want to learn about any field where AI is developing strongly?
+- - What can robots do in the future?
+  - Do you want robots to help with work, daily life, or explore space more?
+- - What is Data Science? It sounds so hot, right?
+  - Do you want to know which fields Data Science is applied in, or need suggestions for learning materials?
+- - Is learning programming difficult?
+  - Which programming language do you want to start with, or need suggestions for small projects to practice?
+- - Can AI help programmers?
+  - Do you want AI to help write code, check for bugs, or suggest solutions for any project?
+- - Which AI application is the most popular now?
+  - Do you want to try any AI application, or need suggestions for AI tools that suit your needs?
+- - I want to learn Data Science, where should I start?
+  - Do you want to learn through online courses, books, or practice with real projects first?
+- - Does technology make people lazier?
+  - How do you think technology should be used to balance convenience and activity?
+- - Can AI write poetry?
+  - Do you want to try AI creating poems on any topic, or want to know more about AI's creative abilities?
+- - How to keep up with new technology?
+  - Which channel do you want to get news from, or need suggestions for tech communities to join?
+- - What is blockchain?
+  - Do you want to know about blockchain applications in finance, security, or any other field?
+- - Which technology will change life in the next 10 years?
+  - Which field do you think will be most impacted by technology, such as healthcare, education, or transportation?
+- - I want to build my own website, how to start?
+  - Do you want to make a personal website, online store, or a blog to share knowledge?
+- - What is special about 5G technology?
+  - Do you want to know how 5G affects daily life, work, or entertainment?
+- - How to protect personal information online?
+  - Do you want to know about security tools, safe internet tips, or how to spot online scams?
+- - What is virtual reality (VR) technology used for?
+  - Do you want to experience VR in games, education, or virtual travel?
+- - I want to try AI programming, what should I learn first?
+  - Do you want to start with Python, learn about algorithms, or try building a simple chatbot first?
+- - What is green technology?
+  - Do you want to know about environmental protection solutions, energy saving, or recycling technology?
+- - How to spot fake news online?
+  - Do you want to learn how to check sources, use verification tools, or need suggestions for reputable websites?
+- - How can technology connect people?
+  - Do you want to learn about social networks, video calling apps, or online teamwork platforms?

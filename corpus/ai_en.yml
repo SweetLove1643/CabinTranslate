@@ -1,0 +1,65 @@
+# filepath: e:\ChatterBot_en\corpus\ai_en.yml
+categories:
+- AI
+- Artificial Intelligence
+conversations:
+- - What is artificial intelligence?
+  - Do you want to learn about real-world applications of artificial intelligence?
+- - What can AI do?
+  - Which field are you most interested in where AI is being applied?
+- - Will AI replace humans?
+  - In your opinion, in which jobs should AI support or replace humans?
+- - What is Machine Learning?
+  - Do you want to know the difference between Machine Learning and Deep Learning?
+- - How does Deep Learning work?
+  - Do you want to learn about the types of neural networks in Deep Learning?
+- - Is AI dangerous?
+  - What regulations do you think are needed to control AI?
+- - Is a chatbot considered AI?
+  - Do you want to know how chatbots work?
+- - Where is AI applied?
+  - Which application of AI are you most interested in?
+- - What is natural language processing?
+  - Do you want to know how AI understands and processes Vietnamese?
+- - Can AI be creative?
+  - Do you think AI can replace artists in the future?
+- - How does AI learn from data?
+  - Do you want to know about the types of data AI uses to learn?
+- - What is an artificial neural network?
+  - Do you want to learn how neural networks simulate the human brain?
+- - How to learn AI?
+  - Do you want to start learning AI from basic or advanced knowledge?
+- - What is GPT?
+  - Do you want to know how GPT is different from other AI models?
+- - Can AI understand emotions?
+  - How do you think AI can help in recognizing human emotions?
+- - How can AI help in education?
+  - Do you want to know if AI supports teachers or students more effectively?
+- - How can AI help in healthcare?
+  - Are you interested in AI applications in diagnosis or treatment?
+- - How can AI help in business?
+  - Do you want to know which processes AI helps optimize in enterprises?
+- - How does AI recognize images?
+  - Do you want to learn about facial recognition technologies?
+- - Can AI translate languages?
+  - Do you want to know which language AI translates Vietnamese into best?
+- - Can AI play games?
+  - Do you want to know if AI has ever beaten humans in any games?
+- - Can AI learn by itself?
+  - Do you want to learn about algorithms that help AI self-improve?
+- - How can AI help in transportation?
+  - Do you want to know how AI supports self-driving cars?
+- - How can AI help in agriculture?
+  - Are you interested in AI applications in crop or livestock farming?
+- - How can AI help in finance?
+  - Do you want to know how AI predicts the financial market?
+- - How can AI help in art?
+  - Do you want to know if AI has created any artworks?
+- - How can AI help the environment?
+  - Do you want to learn if AI supports weather forecasting or environmental protection?
+- - How can AI help in cybersecurity?
+  - Do you want to know how AI detects cyber attacks?
+- - How can AI help in customer service?
+  - Do you want to know how AI supports automatic customer responses?
+- - How can AI help in daily life?
+  - Do you want to know which devices around you already use AI?
