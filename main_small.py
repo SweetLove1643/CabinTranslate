@@ -212,7 +212,7 @@ def transcribe_worker(worker_id):
                     QMetaObject.invokeMethod(chatbot_window, "safe_add_suggestions1", Qt.QueuedConnection,
                                             Q_ARG(str, suggestion1))
                     
-                    question2 = chatbot_reply("output","en")
+                    question2 = chatbot_reply(text_trans,"en")
                     suggestion2 = f"Gợi ý: {question2}"
                     QMetaObject.invokeMethod(chatbot_window, "safe_add_suggestions2", Qt.QueuedConnection,
                                             Q_ARG(str, suggestion2))
@@ -234,7 +234,7 @@ def transcribe_worker(worker_id):
                     
                     # Update main chat message (an toàn với thread)
                     QMetaObject.invokeMethod(chatbot_window, "safe_append_message", Qt.QueuedConnection, Q_ARG(str, f"[{chatbot_window.get_current_time()}] {detected_language.upper()}: {text}"))
-                    question2 = chatbot_reply("output","vi")
+                    question2 = chatbot_reply(text,"vi")
                     suggestion2 = f"Gợi ý: {question2}"
                     QMetaObject.invokeMethod(chatbot_window, "safe_add_suggestions2", Qt.QueuedConnection,
                                             Q_ARG(str, suggestion2))

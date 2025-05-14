@@ -2,7 +2,7 @@ import openai
 from dotenv import load_dotenv # type: ignore
 
 load_dotenv(".env")
-openai.api_key = "OPENAI_API_KEY"
+openai.api_key = "OPEN_AI_KEY"
 
 
 def support_prompt(mood, last_reply, language="en"):
