@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Môi trường ảo
 .venv
 
@@ -21,3 +22,6 @@ english_bot.db-shm
 english_bot.db-wal
 vietnamese_bot.db-shm
 vietnamese_bot.db-wal
+=======
+.venv
+>>>>>>> 9b04acb7a88341dee23082eed13ec530cab5483a
