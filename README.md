@@ -83,7 +83,7 @@ CabinTranslate/
 
 ## Đóng góp & bản quyền
 - Tác giả: CabinTranslate Team
-- License: MIT (hoặc cập nhật theo dự án)
+- License: MIT
 
 ---
 *Vui lòng xem chi tiết từng file để biết thêm về cách mở rộng, huấn luyện chatbot, hoặc tích hợp thêm tính năng.*
