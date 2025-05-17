@@ -66,7 +66,7 @@ stop_event = threading.Event()
 # Ngưỡng năng lượng để phát hiện giọng nói
 ENERGY_THRESHOLD = 0.008  # Có thể điều chỉnh tùy môi trường
 
-# Hàm kiểm tra đoạn âm thanh có chứa giọng nói không
+# Hàm kiểm tra đoạn âm thanh có chứa giọng nói không    
 def is_speech(audio_chunk):
     energy = np.sqrt(np.mean(audio_chunk ** 2))
     logging.debug(f"Năng lượng đoạn âm thanh: {energy:.6f}, Ngưỡng: {ENERGY_THRESHOLD}")
